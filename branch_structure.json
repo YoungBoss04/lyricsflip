@@ -1,0 +1,24 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/issue-631-lf-145-store-the-question-s-options-so-every",
+    "feat/issue-632-lf-146-implement-real-token-escrow-for-wagered",
+    "main",
+    "origin",
+    "security/issue-630-lf-144-the-correct-option-s-position-is"
+  ],
+  "parent": {
+    "feat/issue-631-lf-145-store-the-question-s-options-so-every": "main",
+    "feat/issue-632-lf-146-implement-real-token-escrow-for-wagered": "main",
+    "main": null,
+    "origin": "main",
+    "security/issue-630-lf-144-the-correct-option-s-position-is": "main"
+  },
+  "order": [
+    "main",
+    "feat/issue-631-lf-145-store-the-question-s-options-so-every",
+    "feat/issue-632-lf-146-implement-real-token-escrow-for-wagered",
+    "origin",
+    "security/issue-630-lf-144-the-correct-option-s-position-is"
+  ]
+}
